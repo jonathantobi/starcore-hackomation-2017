@@ -1,11 +1,5 @@
 <?php
 
-	//config
-	// $host = 'localhost';
-	// $user = 'tes729sr';
-	// $pass = 'ATsTneExMH5GGkPR';
-	// $db_name = 'tes729sr_firefly';
-
 	//local
 	$host = 'localhost';
 	$user = 'root';
