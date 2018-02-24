@@ -1,0 +1,30 @@
+.big-icon{
+	font-size: 3em;
+	margin: 20px 10px 0 0;
+}
+.text-center{
+	text-align: center;
+}
+#devices{
+	text-align: center;
+	padding: 5px 0;
+}
+.toolbar-icon{
+	font-size: 24px;
+	width: 100%;
+}
+.state-image{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+.state-image img{
+	width: 100%;
+	height: auto;
+}
+.modal{
+	width: 100%;
+	left: 0;
+	margin-left: 0;
+	top: 35%;
+}
